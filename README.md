@@ -1,2 +1,2 @@
 # ProyectoGodot
-Videojuego en Godot vinculado con Firebase
+Backup de respaldo de mi videojuego en Godot.
